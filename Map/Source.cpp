@@ -29,7 +29,6 @@ void main()
 	//{
 	//	cout << e.what() << endl;
 	//}
-	VerseKey myVerse;
 
-	cin >> myVerse;
+	Bible myBible;
 }

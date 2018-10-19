@@ -7,7 +7,6 @@ public:
 	Verse();
 	~Verse();
 
-private:
 	VerseKey verseKey;
 	string verseText;
 };
